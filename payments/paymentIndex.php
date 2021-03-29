@@ -20,7 +20,7 @@ $result = $conn->query($sql);
         <div class="container-fluid pt-2">
                     <div class="row">
                                 <div class="col-md-6">
-                                    <a href="../payments/paymentCreate.php" class="btn btn-primary ">Add new Payment</a>
+                                    <a href="../payments/paymentCreate.php" class="btn btn-primary ">Add new Payment ABC</a>
                                 </div>
                     </div> 
             <div class="pt-2">
